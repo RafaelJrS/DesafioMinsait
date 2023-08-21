@@ -1,14 +1,15 @@
-package com.saucedemo;
+package com.saucedemo.testes;
 
+import com.saucedemo.core.DSL;
+import com.saucedemo.pages.SauceDemoPage;
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class Main {
+public class ECommerceTeste {
 
     private WebDriver driver;
     private DSL dsl;

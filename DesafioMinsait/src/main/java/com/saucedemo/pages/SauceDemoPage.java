@@ -1,5 +1,6 @@
-package com.saucedemo;
+package com.saucedemo.pages;
 
+import com.saucedemo.core.DSL;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
